@@ -25,3 +25,4 @@ This repository will hold the most awesome "Introdution to programming" (CS1105 
 - [Snake, 5B, Filimon Lucian-Jan](https://github.com/info-uaic/IP_2015-2016_Snake_2)
 - [Tic-Tac-Toe, 1E, Nică Răzvan]()
 - [Tic-Tac-Toe, 4B, Alex Dochițoiu](https://github.com/info-uaic/IP_2015-2016_Tic-Tac-Toe-2)
+- [Snake, Ilie Ionuț Octavian](https://github.com/info-uaic/IP_2015-2016_Snake_3)
